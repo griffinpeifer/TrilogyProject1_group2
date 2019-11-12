@@ -1,3 +1,1 @@
-#Trilogy Project 1 
-
-This is the bootcamp project 1 repo
+This repository holds files which perform an analysis on Traffic camera data in the city of Chicago. The data was sourced from the Chicago City Data Portal and was pulled using Socrata to connect to the API. Pandas and Matplotlib were used as the primary libraries to analysis and plot the findings.
